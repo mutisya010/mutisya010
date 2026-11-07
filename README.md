@@ -41,6 +41,9 @@ Bachelor in Technology (Applied Statistics), The Technical University of Kenya
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mutisya010&show_icons=true&theme=tokyonight" />
-  <img height="170"
+  <img height="170" src="https://github-readme-stats-nine-chi-35.vercel.app/api?username=mutisya010&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats-nine-chi-35.vercel.app/api/top-langs/?username=mutisya010&layout=compact&theme=tokyonight" />
+</p>
