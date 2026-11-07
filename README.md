@@ -29,14 +29,14 @@ I run **Royal Software Solutions**, where I turn ideas into working products, an
 ## 🚀 Projects
 
 - **[CVDox](https://cvdox.com):** AI-powered CV generation platform
+- **[Halaflora](https://halaflora.co.ke/):** Flower export company website
 - **[Royal Software Solutions](https://royalsoftwares.co.ke/):** Client websites, ERP, POS, and SaaS builds
-- **Fahari Ecosystem:** A suite of business platforms, including a hospitality ERP for restaurants
 
 ---
 
 ## 🎓 Background
 
-Diploma in Technology (Applied Statistics), The Technical University of Kenya
+Bachelor in Technology (Applied Statistics), The Technical University of Kenya
 
 ---
 
@@ -44,30 +44,4 @@ Diploma in Technology (Applied Statistics), The Technical University of Kenya
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=mutisya010&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mutisya010&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🤝 Let's Connect
-
-I'm open to collaboration on web, ERP, SaaS, and POS projects, and I enjoy working with people who are building something useful.
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/timothy-mutisya-55909234a">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://cvdox.com">
-    <img src="https://img.shields.io/badge/CVDox-FF6F00?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-  <a href="https://royalsoftwares.co.ke/">
-    <img src="https://img.shields.io/badge/Website-1A73E8?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-  <a href="mailto:mutisyatimothy010@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center"><i>"Build it well, and let the work speak for itself." – Timothy</i></p>
+  <img height="170"
