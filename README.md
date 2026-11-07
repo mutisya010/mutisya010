@@ -12,7 +12,7 @@
 
 I'm a software developer and entrepreneur based in **Nairobi, Kenya**. I build websites, ERP systems, SaaS platforms, and POS systems that help businesses run better. My philosophy is simple: good software should solve real problems for real people.
 
-I run **Royal Software Solutions**, where I turn ideas into working products, and I built **[CVDox](https://cvdox.com)**, an AI-powered CV generation platform.
+I run **Royal Software Solutions**, where I turn ideas into working products.
 
 ---
 
@@ -28,7 +28,6 @@ I run **Royal Software Solutions**, where I turn ideas into working products, an
 
 ## 🚀 Projects
 
-- **[CVDox](https://cvdox.com):** AI-powered CV generation platform
 - **[Halaflora](https://halaflora.co.ke/):** Flower export company website
 - **[Royal Software Solutions](https://royalsoftwares.co.ke/):** Client websites, ERP, POS, and SaaS builds
 
