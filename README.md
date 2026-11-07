@@ -12,7 +12,7 @@
 
 I'm a software developer and entrepreneur based in **Nairobi, Kenya**. I build websites, ERP systems, SaaS platforms, and POS systems that help businesses run better. My philosophy is simple: good software should solve real problems for real people.
 
-I run **Royal Software Solutions**, where I turn ideas into working products.
+Part of **Royal Software Solutions**, where I turn ideas into working products.
 
 ---
 
