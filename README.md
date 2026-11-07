@@ -39,7 +39,6 @@ Bachelor in Technology (Applied Statistics), The Technical University of Kenya
 
 ---
 
-## 📊 GitHub Stats
 
 ## 📊 GitHub Stats
 
