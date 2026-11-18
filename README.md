@@ -31,7 +31,8 @@ Part of **Royal Software Solutions**, where I turn ideas into working products.
 - **[Halaflora](https://halaflora.co.ke/):** Flower export company website
 - **[Maleon cleaning services ltd](https://maleoncleaningservicesltd.co.ke/):** Cleaning Services Company
 - **[Royal Software Solutions](https://royalsoftwares.co.ke/):** Client websites, ERP, POS, and SaaS builds
-- **[Jesus Enthroned Network](https://jesusenthroned.royalsoftwares.co.ke/):** Jesus Enthroned Network website
+- **[Jesus Enthroned Network](https://jesusenthroned.org/):** Jesus Enthroned Network website
+- **[Loima Technical and Vocational collage](https://loima-tvc.ac.ke/):** Loima-TVC Website
 
 ---
 
